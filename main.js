@@ -1,10 +1,6 @@
-/* global d3 */
-/* eslint-disable max-len */
 
-// eslint-disable-next-line no-unused-vars
 const projectName = 'bar-chart';
 
-// coded by @Christian-Paul
 
 var width = 800,
   height = 390,
